@@ -1,1 +1,1 @@
-Implementation of rotate operations on tables representing simple 8x8 images.
+Implementation of rotate operations on arrays representing simple 8x8 images.
